@@ -1,0 +1,37 @@
+	{ 
+		
+		"cochon_1": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   82, 87  ,  80, 194  ,  38, 123  ,  18, 70  ,  60, 48  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   239, 119  ,  188, 194  ,  80, 194  ,  166, 87  ,  192, 61  ,  235, 75  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   18, 70  ,  38, 123  ,  13, 104  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   188, 194  ,  222, 144  ,  215, 178  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   80, 194  ,  82, 87  ,  166, 87  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   41, 145  ,  38, 123  ,  80, 194  ,  55, 183  ]
+				}  
+		]
+		
+	}
