@@ -114,7 +114,7 @@ function update() {
 
 		var rayon = game.add.sprite(transformer_1.position.x +100, transformer_1.position.y, 'rayon_bleu_1');
 		//rayon.rotation = 1;
-		game.physics.p2.enable(rayon, true);
+		game.physics.p2.enable(rayon);
 		rayon.body.velocity.x = 1000;
 		rayon.body.velocity.y = diffHeight * 3.5;
 		//Hacky : supprimme le rayon au bout de 2s, je n'arrive pas encore a bien gérer les groupes de collision
